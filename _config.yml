@@ -1,0 +1,23 @@
+name: Collections
+favicon: null
+layout_spectrum: 0.010583719937130809
+typography_spectrum: 0.6515169416088611
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09645538660697639
+  lightness: 0.2786979144439101
+  saturation: 0.2854982456192374
+  rhythmicContrast: 0.5764258985873312
+purpose: []
