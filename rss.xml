@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Collections]]></title>
         <description><![CDATA[Collections]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/collections/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 13:29:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 05 Nov 2015 13:29:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/collections/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/collections/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">93e67180-347b-46b0-a83a-cab0382184fa</guid>
+            <pubDate>Thu, 05 Nov 2015 13:28:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Collection One]]></title>
             <description><![CDATA[<article><h1>Collection One</h1><p>Bits & Bobs</p></article>]]></description>
-            <link>undefinedcollection-one/index.html</link>
+            <link>https://thegrid.ai/collections/collection-one/index.html</link>
             <guid isPermaLink="false">b1abcd1a-f453-44d4-b361-1d1c5c9846a2</guid>
             <pubDate>Thu, 05 Nov 2015 13:28:39 GMT</pubDate>
         </item>
